@@ -12,12 +12,10 @@
 
 [Gapminder](https://www.gapminder.org/data/documentation/gd000/)
 
-TODO ADD LINKS
-
-* PNB par habitant[gdp_p_capita.csv]()
-* Espérance de vie[life_expect.csv]() 
-* Population [pop.csv]()
-* Régions [regions.csv]()
+* PNB par habitant [gdp_p_capita.csv](https://gitlab.com/anders-b/rosling-graph/blob/master/data/csv/gdp_p_capita.csv)
+* Espérance de vie[life_expect.csv](https://gitlab.com/anders-b/rosling-graph/blob/master/data/csv/life_expect.csv) 
+* Population [pop.csv](https://gitlab.com/anders-b/rosling-graph/blob/master/data/csv/pop.csv)
+* Régions [regions.csv](https://gitlab.com/anders-b/rosling-graph/blob/master/data/csv/regions.csv)
 
 ### Préparer les données
 
@@ -205,18 +203,14 @@ saveJson('regions.json', data)
 
 Nous avons maintenant:
 
-TODO links
-
-- [gdp_p_capita.json]()
-- [life_expect.json]()
-- [pop.json]()
-- [regions.json]()
+- [gdp_p_capita.json](https://gitlab.com/anders-b/rosling-graph/blob/master/data/gdp_p_capita.json)
+- [life_expect.json](https://gitlab.com/anders-b/rosling-graph/blob/master/data/life_expect.json)
+- [pop.json](https://gitlab.com/anders-b/rosling-graph/blob/master/data/pop.json)
+- [regions.json](https://gitlab.com/anders-b/rosling-graph/blob/master/data/regions.json)
 
 ### Créer le fichier final
 
-TODO link
-
-[prepareData.js]()
+[prepareData.js](https://gitlab.com/anders-b/rosling-graph/blob/master/data/prepareData.js)
 
 ```javascript
 const R = require('ramda')
@@ -277,9 +271,7 @@ const countryHasAllValues = country => {
 saveJson('data.json', { years, countries: data.filter(countryHasAllValues) })
 ```
 
-TODO link
-
-[data.json]()
+[data.json](https://gitlab.com/anders-b/rosling-graph/blob/master/data/data.json)
 
 ## Le graphique
 
@@ -332,9 +324,7 @@ Nous allons écrire le code dans `src`
 
 ### Les constantes
 
-TODO link
-
-[config.js]()
+[config.js](https://gitlab.com/anders-b/rosling-graph/blob/master/src/config.js)
 
 ```javascript
 export const WIDTH = 500
@@ -343,9 +333,7 @@ export const HEIGHT = 200
 
 ### Les éléments
 
-TODO link
-
-[index.js]()
+[index.js](https://gitlab.com/anders-b/rosling-graph/blob/master/src/index.js)
 
 ```javascript
 import { select } from 'd3'
@@ -375,9 +363,7 @@ Une fois les données chargée nous allons appeller la fonction `drawGraph`.
 
 ### Les échelles et une fonction pour la couleur régionale
 
-TODO link
-
-[scales.js]()
+[scales.js](https://gitlab.com/anders-b/rosling-graph/blob/master/src/scales.js)
 
 ```javascript
 import { scaleLinear, scaleLog, scalePow } from 'd3'
@@ -401,9 +387,7 @@ export const getColorByRegion = ({ region }) => {
 
 ### Les bulles
 
-TODO link
-
-[bubbles.js]()
+[bubbles.js](https://gitlab.com/anders-b/rosling-graph/blob/master/src/bubbles.js)
 
 ```javascript
 import { getColorByRegion } from './scales'
@@ -435,9 +419,7 @@ const drawGraph = ({ years, countries }) => {
 
 ### Les événements
 
-TODO links
-
-[events.js]()
+[events.js](https://gitlab.com/anders-b/rosling-graph/blob/master/src/events.js)
 
 Nous bulles n'ont pas encore de positions / tailles elles vont être calculées en fonction de l'annéee
 
@@ -594,7 +576,7 @@ Dans `dist/style.css`
 
 ### Légende
 
-`axis.js`
+[axis.js](https://gitlab.com/anders-b/rosling-graph/blob/master/src/axis.js)
 
 ```javascript
 import { WIDTH, HEIGHT } from './config'
