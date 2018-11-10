@@ -1,0 +1,28 @@
+{
+  "name": "rosling-graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel": "babel --presets es2015 src/index.js -o build/bundle.js",
+    "serve": "http-server dist",
+    "watch": "webpack --watch",
+    "webpack": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.1.5",
+    "http-server": "^0.11.1",
+    "ramda": "^0.25.0",
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "d3": "^5.7.0",
+    "d3-scale": "^2.1.2",
+    "d3-selection": "^1.3.2"
+  }
+}
