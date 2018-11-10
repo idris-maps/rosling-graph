@@ -285,8 +285,16 @@ TODO link
 
 ### Mise en place
 
+Les dépendances de développement:
+
 ```bash
-npm install babel-loader webpack --save-dev
+npm install @babel/core http-server webpack webpack-cli  --save-dev
+```
+
+Les modules d3 dont nous avons besoin:
+
+```bash
+npm install d3-selection d3-scale --save
 ```
 
 Créer les dossiers `src` et `dist`.
@@ -296,7 +304,8 @@ Dans `package.json`
 ```json
 {
   "scripts": {
-    "babel": "babel --presets es2015 src/index.js -o build/bundle.js",
+    "serve": "http-server dist",
+    "watch": "webpack --watch",
     "webpack": "webpack"
   },
 }
