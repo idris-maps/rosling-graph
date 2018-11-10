@@ -1,0 +1,790 @@
+[
+  {
+    "geo": "afg",
+    "region": "south_asia"
+  },
+  {
+    "geo": "alb",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "dza",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "and",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "ago",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "atg",
+    "region": "america"
+  },
+  {
+    "geo": "arg",
+    "region": "america"
+  },
+  {
+    "geo": "arm",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "aus",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "aut",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "aze",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "bhs",
+    "region": "america"
+  },
+  {
+    "geo": "bhr",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "bgd",
+    "region": "south_asia"
+  },
+  {
+    "geo": "brb",
+    "region": "america"
+  },
+  {
+    "geo": "blr",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "bel",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "blz",
+    "region": "america"
+  },
+  {
+    "geo": "ben",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "btn",
+    "region": "south_asia"
+  },
+  {
+    "geo": "bol",
+    "region": "america"
+  },
+  {
+    "geo": "bih",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "bwa",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "bra",
+    "region": "america"
+  },
+  {
+    "geo": "brn",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "bgr",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "bfa",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "bdi",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "khm",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "cmr",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "can",
+    "region": "america"
+  },
+  {
+    "geo": "cpv",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "caf",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "tcd",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "chl",
+    "region": "america"
+  },
+  {
+    "geo": "chn",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "col",
+    "region": "america"
+  },
+  {
+    "geo": "com",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "cod",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "cog",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "cri",
+    "region": "america"
+  },
+  {
+    "geo": "civ",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "hrv",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "cub",
+    "region": "america"
+  },
+  {
+    "geo": "cyp",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "cze",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "dnk",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "dji",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "dma",
+    "region": "america"
+  },
+  {
+    "geo": "dom",
+    "region": "america"
+  },
+  {
+    "geo": "ecu",
+    "region": "america"
+  },
+  {
+    "geo": "egy",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "slv",
+    "region": "america"
+  },
+  {
+    "geo": "gnq",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "eri",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "est",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "eth",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "fji",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "fin",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "fra",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "gab",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "gmb",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "geo",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "deu",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "gha",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "grc",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "grd",
+    "region": "america"
+  },
+  {
+    "geo": "gtm",
+    "region": "america"
+  },
+  {
+    "geo": "gin",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "gnb",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "guy",
+    "region": "america"
+  },
+  {
+    "geo": "hti",
+    "region": "america"
+  },
+  {
+    "geo": "hos",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "hnd",
+    "region": "america"
+  },
+  {
+    "geo": "hkg",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "hun",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "isl",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "ind",
+    "region": "south_asia"
+  },
+  {
+    "geo": "idn",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "irn",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "irq",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "irl",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "isr",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "ita",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "jam",
+    "region": "america"
+  },
+  {
+    "geo": "jpn",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "jor",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "kaz",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "ken",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "kir",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "prk",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "kor",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "kwt",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "kgz",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "lao",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "lva",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "lbn",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "lso",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "lbr",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "lby",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "lie",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "ltu",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "lux",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "mkd",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "mdg",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "mwi",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "mys",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "mdv",
+    "region": "south_asia"
+  },
+  {
+    "geo": "mli",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "mlt",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "mhl",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "mrt",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "mus",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "mex",
+    "region": "america"
+  },
+  {
+    "geo": "fsm",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "mda",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "mco",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "mng",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "mne",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "mar",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "moz",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "mmr",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "nam",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "nru",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "npl",
+    "region": "south_asia"
+  },
+  {
+    "geo": "nld",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "nzl",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "nic",
+    "region": "america"
+  },
+  {
+    "geo": "ner",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "nga",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "nor",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "omn",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "pak",
+    "region": "south_asia"
+  },
+  {
+    "geo": "plw",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "pan",
+    "region": "america"
+  },
+  {
+    "geo": "png",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "pry",
+    "region": "america"
+  },
+  {
+    "geo": "per",
+    "region": "america"
+  },
+  {
+    "geo": "phl",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "pol",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "prt",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "qat",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "rou",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "rus",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "rwa",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "kna",
+    "region": "america"
+  },
+  {
+    "geo": "lca",
+    "region": "america"
+  },
+  {
+    "geo": "vct",
+    "region": "america"
+  },
+  {
+    "geo": "wsm",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "smr",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "stp",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "sau",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "sen",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "srb",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "syc",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "sle",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "sgp",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "svk",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "svn",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "slb",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "som",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "zaf",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "esp",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "lka",
+    "region": "south_asia"
+  },
+  {
+    "geo": "sdn",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "sur",
+    "region": "america"
+  },
+  {
+    "geo": "swz",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "swe",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "che",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "syr",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "twn",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "tjk",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "tza",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "tha",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "tls",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "tgo",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "ton",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "tto",
+    "region": "america"
+  },
+  {
+    "geo": "tun",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "tur",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "tkm",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "tuv",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "uga",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "ukr",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "are",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "gbr",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "usa",
+    "region": "america"
+  },
+  {
+    "geo": "ury",
+    "region": "america"
+  },
+  {
+    "geo": "uzb",
+    "region": "europe_central_asia"
+  },
+  {
+    "geo": "vut",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "ven",
+    "region": "america"
+  },
+  {
+    "geo": "pse",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "vnm",
+    "region": "east_asia_pacific"
+  },
+  {
+    "geo": "yem",
+    "region": "middle_east_north_africa"
+  },
+  {
+    "geo": "zmb",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "zwe",
+    "region": "sub_saharan_africa"
+  },
+  {
+    "geo": "ssd",
+    "region": "sub_saharan_africa"
+  }
+]
